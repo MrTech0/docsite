@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mrtech0.github.io/docsite/sitemap.xml
